@@ -24,7 +24,7 @@ jobs:
 
       - name: Run script
         env:
-          API_KEY: ${{ secrets.KEY }}
-          BOT_TOKEN: ${{ secrets.TOKEN }}
+          API_KEY: ${{ secrets.API_KEY }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: python work.py

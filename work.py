@@ -5,7 +5,7 @@ import json
 import time
 from tzlocal import get_localzone
 
-key=config('KEY')
+key=config('API_KEY')
 headers={"X-Auth-Token":key}
 PL="http://api.football-data.org/v4/competitions/PL" #premier league
 CL="http://api.football-data.org/v4/competitions/CL" #ucl
@@ -58,7 +58,7 @@ def match_day():
 
 match_day()
 def asta(matches):
-    TOKEN=config('TOKEN')
+    TOKEN=config('BOT_TOKEN')
     CHAT_ID=config('CHAT_ID')
     url=f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     time.sleep(5)
