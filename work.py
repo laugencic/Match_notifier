@@ -56,7 +56,7 @@ def match_day():
     with open("matches.json","w")as file:
         json.dump(all_matches,file,indent=4)
 
-
+match_day()
 def asta(matches):
     TOKEN=config('TOKEN')
     CHAT_ID=config('CHAT_ID')
