@@ -5,7 +5,7 @@ import json
 import time
 from tzlocal import get_localzone
 
-key=config('key')
+key=config('KEY')
 headers={"X-Auth-Token":key}
 PL="http://api.football-data.org/v4/competitions/PL" #premier league
 CL="http://api.football-data.org/v4/competitions/CL" #ucl

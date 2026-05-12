@@ -44,7 +44,7 @@
                 "matchday": 31,
                 "stage": "REGULAR_SEASON",
                 "group": null,
-                "lastUpdated": "2026-05-11T05:21:10Z",
+                "lastUpdated": "2026-05-12T01:32:00Z",
                 "homeTeam": {
                     "id": 65,
                     "name": "Manchester City FC",
@@ -109,7 +109,7 @@
             "count": 7,
             "first": "2026-05-12",
             "last": "2026-05-13",
-            "played": 0
+            "played": 1
         },
         "competition": {
             "id": 2014,
@@ -142,11 +142,11 @@
                 },
                 "id": 544563,
                 "utcDate": "2026-05-12T17:00:00Z",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "matchday": 36,
                 "stage": "REGULAR_SEASON",
                 "group": null,
-                "lastUpdated": "2026-05-12T18:52:29Z",
+                "lastUpdated": "2026-05-12T19:03:34Z",
                 "homeTeam": {
                     "id": 558,
                     "name": "RC Celta de Vigo",
@@ -205,7 +205,7 @@
                 "matchday": 36,
                 "stage": "REGULAR_SEASON",
                 "group": null,
-                "lastUpdated": "2026-05-12T18:52:44Z",
+                "lastUpdated": "2026-05-12T19:42:54Z",
                 "homeTeam": {
                     "id": 90,
                     "name": "Real Betis Balompi\u00e9",
@@ -221,15 +221,15 @@
                     "crest": "https://crests.football-data.org/285.png"
                 },
                 "score": {
-                    "winner": "DRAW",
+                    "winner": "HOME_TEAM",
                     "duration": "REGULAR",
                     "fullTime": {
-                        "home": 1,
+                        "home": 2,
                         "away": 1
                     },
                     "halfTime": {
-                        "home": null,
-                        "away": null
+                        "home": 1,
+                        "away": 1
                     }
                 },
                 "odds": {
@@ -260,11 +260,11 @@
                 },
                 "id": 544567,
                 "utcDate": "2026-05-12T19:30:00Z",
-                "status": "TIMED",
+                "status": "IN_PLAY",
                 "matchday": 36,
                 "stage": "REGULAR_SEASON",
                 "group": null,
-                "lastUpdated": "2026-05-12T01:32:00Z",
+                "lastUpdated": "2026-05-12T19:42:39Z",
                 "homeTeam": {
                     "id": 79,
                     "name": "CA Osasuna",
@@ -280,11 +280,11 @@
                     "crest": "https://crests.football-data.org/78.png"
                 },
                 "score": {
-                    "winner": null,
+                    "winner": "DRAW",
                     "duration": "REGULAR",
                     "fullTime": {
-                        "home": null,
-                        "away": null
+                        "home": 0,
+                        "away": 0
                     },
                     "halfTime": {
                         "home": null,
@@ -628,21 +628,5 @@
                 "referees": []
             }
         ]
-    },
-    "WC": {
-        "filters": {
-            "season": "2026"
-        },
-        "resultSet": {
-            "count": 0
-        },
-        "competition": {
-            "id": 2000,
-            "name": "FIFA World Cup",
-            "code": "WC",
-            "type": "CUP",
-            "emblem": "https://crests.football-data.org/wm26.png"
-        },
-        "matches": []
     }
 }
