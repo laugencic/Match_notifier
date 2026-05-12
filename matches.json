@@ -1,0 +1,648 @@
+{
+    "PL": {
+        "filters": {
+            "season": "2025"
+        },
+        "resultSet": {
+            "count": 1,
+            "first": "2026-05-13",
+            "last": "2026-05-13",
+            "played": 0
+        },
+        "competition": {
+            "id": 2021,
+            "name": "Premier League",
+            "code": "PL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PL.png"
+        },
+        "matches": [
+            {
+                "area": {
+                    "id": 2072,
+                    "name": "England",
+                    "code": "ENG",
+                    "flag": "https://crests.football-data.org/770.svg"
+                },
+                "competition": {
+                    "id": 2021,
+                    "name": "Premier League",
+                    "code": "PL",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/PL.png"
+                },
+                "season": {
+                    "id": 2403,
+                    "startDate": "2025-08-15",
+                    "endDate": "2026-05-24",
+                    "currentMatchday": 36,
+                    "winner": null
+                },
+                "id": 538091,
+                "utcDate": "2026-05-13T19:00:00Z",
+                "status": "TIMED",
+                "matchday": 31,
+                "stage": "REGULAR_SEASON",
+                "group": null,
+                "lastUpdated": "2026-05-11T05:21:10Z",
+                "homeTeam": {
+                    "id": 65,
+                    "name": "Manchester City FC",
+                    "shortName": "Man City",
+                    "tla": "MCI",
+                    "crest": "https://crests.football-data.org/65.png"
+                },
+                "awayTeam": {
+                    "id": 354,
+                    "name": "Crystal Palace FC",
+                    "shortName": "Crystal Palace",
+                    "tla": "CRY",
+                    "crest": "https://crests.football-data.org/354.png"
+                },
+                "score": {
+                    "winner": null,
+                    "duration": "REGULAR",
+                    "fullTime": {
+                        "home": null,
+                        "away": null
+                    },
+                    "halfTime": {
+                        "home": null,
+                        "away": null
+                    }
+                },
+                "odds": {
+                    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+                },
+                "referees": [
+                    {
+                        "id": 11494,
+                        "name": "Stuart Attwell",
+                        "type": "REFEREE",
+                        "nationality": "England"
+                    }
+                ]
+            }
+        ]
+    },
+    "CL": {
+        "filters": {
+            "season": "2025"
+        },
+        "resultSet": {
+            "count": 0
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/CL.png"
+        },
+        "matches": []
+    },
+    "PD": {
+        "filters": {
+            "season": "2025"
+        },
+        "resultSet": {
+            "count": 7,
+            "first": "2026-05-12",
+            "last": "2026-05-13",
+            "played": 0
+        },
+        "competition": {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/laliga.png"
+        },
+        "matches": [
+            {
+                "area": {
+                    "id": 2224,
+                    "name": "Spain",
+                    "code": "ESP",
+                    "flag": "https://crests.football-data.org/760.svg"
+                },
+                "competition": {
+                    "id": 2014,
+                    "name": "Primera Division",
+                    "code": "PD",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/laliga.png"
+                },
+                "season": {
+                    "id": 2429,
+                    "startDate": "2025-08-17",
+                    "endDate": "2026-05-24",
+                    "currentMatchday": 36,
+                    "winner": null
+                },
+                "id": 544563,
+                "utcDate": "2026-05-12T17:00:00Z",
+                "status": "IN_PLAY",
+                "matchday": 36,
+                "stage": "REGULAR_SEASON",
+                "group": null,
+                "lastUpdated": "2026-05-12T18:52:29Z",
+                "homeTeam": {
+                    "id": 558,
+                    "name": "RC Celta de Vigo",
+                    "shortName": "Celta",
+                    "tla": "CEL",
+                    "crest": "https://crests.football-data.org/558.png"
+                },
+                "awayTeam": {
+                    "id": 88,
+                    "name": "Levante UD",
+                    "shortName": "Levante",
+                    "tla": "LEV",
+                    "crest": "https://crests.football-data.org/88.png"
+                },
+                "score": {
+                    "winner": "AWAY_TEAM",
+                    "duration": "REGULAR",
+                    "fullTime": {
+                        "home": 2,
+                        "away": 3
+                    },
+                    "halfTime": {
+                        "home": 1,
+                        "away": 1
+                    }
+                },
+                "odds": {
+                    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+                },
+                "referees": []
+            },
+            {
+                "area": {
+                    "id": 2224,
+                    "name": "Spain",
+                    "code": "ESP",
+                    "flag": "https://crests.football-data.org/760.svg"
+                },
+                "competition": {
+                    "id": 2014,
+                    "name": "Primera Division",
+                    "code": "PD",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/laliga.png"
+                },
+                "season": {
+                    "id": 2429,
+                    "startDate": "2025-08-17",
+                    "endDate": "2026-05-24",
+                    "currentMatchday": 36,
+                    "winner": null
+                },
+                "id": 544562,
+                "utcDate": "2026-05-12T18:00:00Z",
+                "status": "IN_PLAY",
+                "matchday": 36,
+                "stage": "REGULAR_SEASON",
+                "group": null,
+                "lastUpdated": "2026-05-12T18:52:44Z",
+                "homeTeam": {
+                    "id": 90,
+                    "name": "Real Betis Balompi\u00e9",
+                    "shortName": "Real Betis",
+                    "tla": "BET",
+                    "crest": "https://crests.football-data.org/90.png"
+                },
+                "awayTeam": {
+                    "id": 285,
+                    "name": "Elche CF",
+                    "shortName": "Elche",
+                    "tla": "ELC",
+                    "crest": "https://crests.football-data.org/285.png"
+                },
+                "score": {
+                    "winner": "DRAW",
+                    "duration": "REGULAR",
+                    "fullTime": {
+                        "home": 1,
+                        "away": 1
+                    },
+                    "halfTime": {
+                        "home": null,
+                        "away": null
+                    }
+                },
+                "odds": {
+                    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+                },
+                "referees": []
+            },
+            {
+                "area": {
+                    "id": 2224,
+                    "name": "Spain",
+                    "code": "ESP",
+                    "flag": "https://crests.football-data.org/760.svg"
+                },
+                "competition": {
+                    "id": 2014,
+                    "name": "Primera Division",
+                    "code": "PD",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/laliga.png"
+                },
+                "season": {
+                    "id": 2429,
+                    "startDate": "2025-08-17",
+                    "endDate": "2026-05-24",
+                    "currentMatchday": 36,
+                    "winner": null
+                },
+                "id": 544567,
+                "utcDate": "2026-05-12T19:30:00Z",
+                "status": "TIMED",
+                "matchday": 36,
+                "stage": "REGULAR_SEASON",
+                "group": null,
+                "lastUpdated": "2026-05-12T01:32:00Z",
+                "homeTeam": {
+                    "id": 79,
+                    "name": "CA Osasuna",
+                    "shortName": "Osasuna",
+                    "tla": "OSA",
+                    "crest": "https://crests.football-data.org/79.png"
+                },
+                "awayTeam": {
+                    "id": 78,
+                    "name": "Club Atl\u00e9tico de Madrid",
+                    "shortName": "Atleti",
+                    "tla": "ATL",
+                    "crest": "https://crests.football-data.org/78.png"
+                },
+                "score": {
+                    "winner": null,
+                    "duration": "REGULAR",
+                    "fullTime": {
+                        "home": null,
+                        "away": null
+                    },
+                    "halfTime": {
+                        "home": null,
+                        "away": null
+                    }
+                },
+                "odds": {
+                    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+                },
+                "referees": []
+            },
+            {
+                "area": {
+                    "id": 2224,
+                    "name": "Spain",
+                    "code": "ESP",
+                    "flag": "https://crests.football-data.org/760.svg"
+                },
+                "competition": {
+                    "id": 2014,
+                    "name": "Primera Division",
+                    "code": "PD",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/laliga.png"
+                },
+                "season": {
+                    "id": 2429,
+                    "startDate": "2025-08-17",
+                    "endDate": "2026-05-24",
+                    "currentMatchday": 36,
+                    "winner": null
+                },
+                "id": 544566,
+                "utcDate": "2026-05-13T17:00:00Z",
+                "status": "TIMED",
+                "matchday": 36,
+                "stage": "REGULAR_SEASON",
+                "group": null,
+                "lastUpdated": "2026-05-12T01:32:00Z",
+                "homeTeam": {
+                    "id": 80,
+                    "name": "RCD Espanyol de Barcelona",
+                    "shortName": "Espanyol",
+                    "tla": "ESP",
+                    "crest": "https://crests.football-data.org/80.png"
+                },
+                "awayTeam": {
+                    "id": 77,
+                    "name": "Athletic Club",
+                    "shortName": "Athletic",
+                    "tla": "ATH",
+                    "crest": "https://crests.football-data.org/77.png"
+                },
+                "score": {
+                    "winner": null,
+                    "duration": "REGULAR",
+                    "fullTime": {
+                        "home": null,
+                        "away": null
+                    },
+                    "halfTime": {
+                        "home": null,
+                        "away": null
+                    }
+                },
+                "odds": {
+                    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+                },
+                "referees": []
+            },
+            {
+                "area": {
+                    "id": 2224,
+                    "name": "Spain",
+                    "code": "ESP",
+                    "flag": "https://crests.football-data.org/760.svg"
+                },
+                "competition": {
+                    "id": 2014,
+                    "name": "Primera Division",
+                    "code": "PD",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/laliga.png"
+                },
+                "season": {
+                    "id": 2429,
+                    "startDate": "2025-08-17",
+                    "endDate": "2026-05-24",
+                    "currentMatchday": 36,
+                    "winner": null
+                },
+                "id": 544569,
+                "utcDate": "2026-05-13T17:00:00Z",
+                "status": "TIMED",
+                "matchday": 36,
+                "stage": "REGULAR_SEASON",
+                "group": null,
+                "lastUpdated": "2026-05-11T01:32:00Z",
+                "homeTeam": {
+                    "id": 94,
+                    "name": "Villarreal CF",
+                    "shortName": "Villarreal",
+                    "tla": "VIL",
+                    "crest": "https://crests.football-data.org/94.png"
+                },
+                "awayTeam": {
+                    "id": 559,
+                    "name": "Sevilla FC",
+                    "shortName": "Sevilla FC",
+                    "tla": "SEV",
+                    "crest": "https://crests.football-data.org/559.png"
+                },
+                "score": {
+                    "winner": null,
+                    "duration": "REGULAR",
+                    "fullTime": {
+                        "home": null,
+                        "away": null
+                    },
+                    "halfTime": {
+                        "home": null,
+                        "away": null
+                    }
+                },
+                "odds": {
+                    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+                },
+                "referees": []
+            },
+            {
+                "area": {
+                    "id": 2224,
+                    "name": "Spain",
+                    "code": "ESP",
+                    "flag": "https://crests.football-data.org/760.svg"
+                },
+                "competition": {
+                    "id": 2014,
+                    "name": "Primera Division",
+                    "code": "PD",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/laliga.png"
+                },
+                "season": {
+                    "id": 2429,
+                    "startDate": "2025-08-17",
+                    "endDate": "2026-05-24",
+                    "currentMatchday": 36,
+                    "winner": null
+                },
+                "id": 544561,
+                "utcDate": "2026-05-13T19:30:00Z",
+                "status": "TIMED",
+                "matchday": 36,
+                "stage": "REGULAR_SEASON",
+                "group": null,
+                "lastUpdated": "2026-05-07T01:32:02Z",
+                "homeTeam": {
+                    "id": 263,
+                    "name": "Deportivo Alav\u00e9s",
+                    "shortName": "Alav\u00e9s",
+                    "tla": "ALA",
+                    "crest": "https://crests.football-data.org/263.png"
+                },
+                "awayTeam": {
+                    "id": 81,
+                    "name": "FC Barcelona",
+                    "shortName": "Bar\u00e7a",
+                    "tla": "FCB",
+                    "crest": "https://crests.football-data.org/81.png"
+                },
+                "score": {
+                    "winner": null,
+                    "duration": "REGULAR",
+                    "fullTime": {
+                        "home": null,
+                        "away": null
+                    },
+                    "halfTime": {
+                        "home": null,
+                        "away": null
+                    }
+                },
+                "odds": {
+                    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+                },
+                "referees": []
+            },
+            {
+                "area": {
+                    "id": 2224,
+                    "name": "Spain",
+                    "code": "ESP",
+                    "flag": "https://crests.football-data.org/760.svg"
+                },
+                "competition": {
+                    "id": 2014,
+                    "name": "Primera Division",
+                    "code": "PD",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/laliga.png"
+                },
+                "season": {
+                    "id": 2429,
+                    "startDate": "2025-08-17",
+                    "endDate": "2026-05-24",
+                    "currentMatchday": 36,
+                    "winner": null
+                },
+                "id": 544564,
+                "utcDate": "2026-05-13T19:30:00Z",
+                "status": "TIMED",
+                "matchday": 36,
+                "stage": "REGULAR_SEASON",
+                "group": null,
+                "lastUpdated": "2026-05-11T01:32:00Z",
+                "homeTeam": {
+                    "id": 82,
+                    "name": "Getafe CF",
+                    "shortName": "Getafe",
+                    "tla": "GET",
+                    "crest": "https://crests.football-data.org/82.png"
+                },
+                "awayTeam": {
+                    "id": 89,
+                    "name": "RCD Mallorca",
+                    "shortName": "Mallorca",
+                    "tla": "MAL",
+                    "crest": "https://crests.football-data.org/89.png"
+                },
+                "score": {
+                    "winner": null,
+                    "duration": "REGULAR",
+                    "fullTime": {
+                        "home": null,
+                        "away": null
+                    },
+                    "halfTime": {
+                        "home": null,
+                        "away": null
+                    }
+                },
+                "odds": {
+                    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+                },
+                "referees": []
+            }
+        ]
+    },
+    "BSA": {
+        "filters": {
+            "season": "2026"
+        },
+        "resultSet": {
+            "count": 0
+        },
+        "competition": {
+            "id": 2013,
+            "name": "Campeonato Brasileiro S\u00e9rie A",
+            "code": "BSA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/bsa.png"
+        },
+        "matches": []
+    },
+    "ELC": {
+        "filters": {
+            "season": "2025"
+        },
+        "resultSet": {
+            "count": 1,
+            "first": "2026-05-12",
+            "last": "2026-05-12",
+            "played": 0
+        },
+        "competition": {
+            "id": 2016,
+            "name": "Championship",
+            "code": "ELC",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/ELC.png"
+        },
+        "matches": [
+            {
+                "area": {
+                    "id": 2072,
+                    "name": "England",
+                    "code": "ENG",
+                    "flag": "https://crests.football-data.org/770.svg"
+                },
+                "competition": {
+                    "id": 2016,
+                    "name": "Championship",
+                    "code": "ELC",
+                    "type": "LEAGUE",
+                    "emblem": "https://crests.football-data.org/ELC.png"
+                },
+                "season": {
+                    "id": 2416,
+                    "startDate": "2025-08-08",
+                    "endDate": "2026-05-12",
+                    "currentMatchday": 46,
+                    "winner": null
+                },
+                "id": 557838,
+                "utcDate": "2026-05-12T19:00:00Z",
+                "status": "SCHEDULED",
+                "matchday": null,
+                "stage": "PLAYOFFS",
+                "group": null,
+                "lastUpdated": "2026-05-09T18:35:11Z",
+                "homeTeam": {
+                    "id": 340,
+                    "name": "Southampton FC",
+                    "shortName": "Southampton",
+                    "tla": "SOU",
+                    "crest": "https://crests.football-data.org/340.png"
+                },
+                "awayTeam": {
+                    "id": 343,
+                    "name": "Middlesbrough FC",
+                    "shortName": "Middlesbrough",
+                    "tla": "MID",
+                    "crest": "https://crests.football-data.org/343.png"
+                },
+                "score": {
+                    "winner": null,
+                    "duration": "REGULAR",
+                    "fullTime": {
+                        "home": null,
+                        "away": null
+                    },
+                    "halfTime": {
+                        "home": null,
+                        "away": null
+                    }
+                },
+                "odds": {
+                    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+                },
+                "referees": []
+            }
+        ]
+    },
+    "WC": {
+        "filters": {
+            "season": "2026"
+        },
+        "resultSet": {
+            "count": 0
+        },
+        "competition": {
+            "id": 2000,
+            "name": "FIFA World Cup",
+            "code": "WC",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/wm26.png"
+        },
+        "matches": []
+    }
+}
