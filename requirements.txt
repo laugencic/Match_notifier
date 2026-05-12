@@ -1,0 +1,4 @@
+requests
+python-decouple
+python-telegram-bot
+tzlocal
