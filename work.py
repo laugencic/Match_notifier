@@ -3,7 +3,7 @@ from datetime import datetime,timedelta
 import requests
 import json
 import time
-from tzlocal import get_localzone
+from zoneinfo import ZoneInfo
 
 key=config('API_KEY')
 headers={"X-Auth-Token":key}
@@ -108,7 +108,7 @@ def get_details():
                 home = match['homeTeam']['name']
                 away = match['awayTeam']['name']
                 timee = match['utcDate']
-                tz = get_localzone()        
+                tz = ZoneInfo("Africa/Nairobi")
                 timee = timee.replace("Z", "+00:00")
                 tt = datetime.fromisoformat(timee)
                 lt = tt.astimezone(tz)
